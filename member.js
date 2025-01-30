@@ -8,5 +8,5 @@ function skillsmember() {
     scope: {
         member: " "
     }
-       } 
+    };
 }
